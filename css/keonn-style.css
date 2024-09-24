@@ -1,0 +1,42 @@
+body {
+    background-color:  #ecf0f1;
+}
+
+#readerOptionsForm {
+    background-color: #ff7d24;
+    color: white;
+}
+
+img {
+    height: auto;
+}
+
+#speaker {
+    cursor: pointer;
+}
+
+/* input type=number */
+#power, #sensitivity, #volume {
+    width: 5em;
+}
+
+#ipText {
+    background-color: #ff7d24;
+    color: white;
+}
+
+#tagsSection header {
+    background-color: #ff7d24;
+    color: white;
+    height: 40px;
+}
+
+.thead-darkBlue {
+    background-color: #ff7d24;
+    color: white;
+}
+
+
+.pointer {
+    cursor: pointer;
+}
